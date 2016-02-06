@@ -1,6 +1,6 @@
 {
-  "name": "polis.js",
-  "version": "0.0.2",
+  "name": "node-listerner.js",
+  "version": "0.0.1",
   "dependencies": {
     "sleep": "1.1.x"
   },
